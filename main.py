@@ -32,6 +32,7 @@ FUENTE_TITULO = pygame.font.SysFont('comicsansms', 70)
 BLANCO = (255,255,255)
 NEGRO = (0,0,0)
 ROJO = (255,0,0)
+AZUL = (0,0,255)
 
 # Variables
 RADIO_EXTERIOR = 25
